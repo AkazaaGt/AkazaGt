@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'ofont_ru_MyriadPro';
+    src: url('fonts/ofont_ru_MyriadPro.eot');
+    src: url('fonts/ofont_ru_MyriadPro.eot') format('embedded-opentype'),
+         url('fonts/ofont_ru_MyriadPro.woff2') format('woff2'),
+         url('fonts/ofont_ru_MyriadPro.woff') format('woff'),
+         url('fonts/ofont_ru_MyriadPro.ttf') format('truetype'),
+         url('fonts/ofont_ru_MyriadPro.svg#ofont_ru_MyriadPro') format('svg');
+}

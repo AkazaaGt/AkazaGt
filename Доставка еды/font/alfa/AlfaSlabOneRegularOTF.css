@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'AlfaSlabOneRegularOTF';
+    src: url('fonts/AlfaSlabOneRegularOTF.eot');
+    src: url('fonts/AlfaSlabOneRegularOTF.eot') format('embedded-opentype'),
+         url('fonts/AlfaSlabOneRegularOTF.woff2') format('woff2'),
+         url('fonts/AlfaSlabOneRegularOTF.woff') format('woff'),
+         url('fonts/AlfaSlabOneRegularOTF.ttf') format('truetype'),
+         url('fonts/AlfaSlabOneRegularOTF.svg#AlfaSlabOneRegularOTF') format('svg');
+}
